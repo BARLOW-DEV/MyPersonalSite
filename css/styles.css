@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.mountain-container {
+  bottom: 50px;
+  position: relative;
+  top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 600px;
+}
+
+.bottom-cloud {
+  position: absolute;
+
+}
+
+.top {
+  position: relative;
+  padding-top: 100px;
+  background-color: #e4fbff
+}
+
+.middle {
+  width: 200px;
+  height: 200px;
+  background-color: #944837;
+  display: inline-block;
+}
+
+.bottom {
+  width: 200px;
+  height: 200px;
+  background-color: #E07E69;
+  display: inline-block;
+
+}
