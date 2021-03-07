@@ -17,6 +17,48 @@ h3 {
   font-family: 'Cinzel', serif;
 }
 
+.Aaron {
+  border-radius: 50%;
+}
+
+.web_dev-img {
+  display: inline;
+}
+
+.java-pic {
+  padding-bottom: 15px;
+}
+
+.python-img {
+  padding-bottom: 15px;
+}
+
+.swift-img {
+
+  padding-bottom: 15px;
+  padding-left: 10px;
+}
+
+.CPP-img {
+  padding-left: 10px;
+}
+
+.C {
+  padding-left: 10px;
+}
+
+.kubernetes-img {
+  padding-left: 10px;
+}
+
+.pycharm-img {
+  padding-left: 10px;
+}
+
+.xcode-img {
+  padding-left: 10px;
+}
+
 .mountain-container {
   bottom: 50px;
   position: relative;
@@ -38,19 +80,4 @@ h3 {
   position: relative;
   padding-top: 100px;
   background-color: #e4fbff
-}
-
-.middle {
-  width: 200px;
-  height: 200px;
-  background-color: #944837;
-  display: inline-block;
-}
-
-.bottom {
-  width: 200px;
-  height: 200px;
-  background-color: #E07E69;
-  display: inline-block;
-
 }
