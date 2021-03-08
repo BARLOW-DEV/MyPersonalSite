@@ -17,6 +17,11 @@ h3 {
   font-family: 'Cinzel', serif;
 }
 
+p {
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
 .Aaron {
   border-radius: 50%;
 }
@@ -59,6 +64,14 @@ h3 {
   padding-left: 10px;
 }
 
+.skill-row2 {
+  padding-top: 50px;
+}
+
+.skill-row3 {
+  padding-top: 50px;
+}
+
 .mountain-container {
   bottom: 50px;
   position: relative;
@@ -73,6 +86,14 @@ h3 {
 
 .bottom-cloud {
   position: absolute;
+
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
 
 }
 
