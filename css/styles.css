@@ -1,4 +1,5 @@
 body {
+  color: #9D9DA8;
   margin: 0;
   text-align: center;
   font-family: 'Cabin', sans-serif;
@@ -20,16 +21,17 @@ h1 {
 h2 {
   font-family: 'Cinzel', serif;
   color: #996845;
+  padding-bottom: 10px;
 }
 
 hr {
-  color: #EAF6F6;
-  
+  border: dotted #3F56D4 6px;
+  border-bottom: none;
   width: 5%;
+  margin: 100px auto;
 }
 
 .programmer {
-
   font-family: 'Veranda', sans-serif;
   font-size: 2.5rem;
   font-weight: normal
@@ -48,8 +50,13 @@ h3 {
   border-radius: 50%;
 }
 
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
 .skill-row {
-  width: 50%;
+  width: 60%;
   margin: 100px auto;
   text-align: left;
   line-height: 2;
@@ -78,6 +85,11 @@ h3 {
   line-height: 2;
 }
 
+.reef-message {
+  width: 40%;
+  margin: auto;
+}
+
 .mountain-container {
   bottom: 50px;
   position: relative;
@@ -87,20 +99,21 @@ h3 {
 .top-cloud {
   position: absolute;
   top: 30px;
-  right: 550px;
+  right: 300px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 500px;
+  left: 250px;
 }
 
 .middle-container {
-  margin: 100px auto;
+  margin: 100px 0;
 }
 
 .contact-me {
-  margin: 100px;
+  width: 40%;
+  margin: 40px auto 60px;
 }
 
 .BUTTON_PMM {
@@ -146,21 +159,16 @@ h3 {
   padding-top: 50px;
 }
 
-.footer-link1 {
+.footer-link {
   text-decoration: none;
   color: #71AAEB;
   margin: 20px;
 }
 
-.footer-link2 {
-  margin: 20px;
-  color: #71AAEB;
+.footer-link:hover {
+  color: #F5F9FF
 }
 
-.footer-link3 {
-  margin: 20px;
-  color: #71AAEB;
-}
 
 .self-reference {
   margin: 30px;
@@ -171,9 +179,9 @@ h3 {
 }
 
 .freepik-link {
-  color: #004BA1;
+  color: white;
 }
 
 .flaticon-link {
-  color: #004BA1;
+  color: white;
 }
